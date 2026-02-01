@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 
 // https://vite.dev/config/
 export default defineConfig({
-   base: "https://wtarf.github.io/wtaresearchfoundation.github.io/",
+   base: "https://tamilari.github.io/",
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {
